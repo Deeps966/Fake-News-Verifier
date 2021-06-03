@@ -5,6 +5,6 @@ An app will help you to verify news
 2. App will help you to provide the list articles which are google verified and fact check by google
 3. In this app Google fact checked Api is used to get the articles
 
-![SignUp Page](https://github.com/Deeps966/Fake-News-Verifier/blob/main/Signup%20Page.png?raw=true)
+![SignUp Page](?raw=true)
 
 Credits: @Deep Shah
