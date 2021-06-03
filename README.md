@@ -7,6 +7,8 @@ An app will help you to verify news
 
 Credits: @Deep Shah
 
+https://user-images.githubusercontent.com/75880353/120636698-8e30e780-c48b-11eb-85d2-05d82ea426ff.mp4
+
 <p align="center">
   <img src="https://github.com/Deeps966/Fake-News-Verifier/blob/main/Login%20Page.jpg" width="350">
   <img src="https://github.com/Deeps966/Fake-News-Verifier/blob/main/Signup%20Page.jpg" width="350">
