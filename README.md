@@ -7,4 +7,9 @@ An app will help you to verify news
 
 ![SignUp Page](?raw=true)
 
+<p align="center">
+  <img src="https://github.com/Deeps966/Fake-News-Verifier/blob/main/Forget%20Pass%20Page.jpg" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 Credits: @Deep Shah
